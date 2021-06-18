@@ -19,7 +19,7 @@ No statistically significant [improvement](https://ieeexplore.ieee.org/document/
 | **PSNR**    | 29.0762     | 28.4196     | 29.3118     |
 | **Loss**    | 0.005108381 | 0.005901728 | 0.004859959 |
 
-![1](1.png)
+![1](https://cdn.jsdelivr.net/gh/joseph-cheung/From-DnCNN-to-UDnCNN-and-DUDnCNN/1.png)
 
 
 
@@ -30,4 +30,4 @@ No statistically significant [improvement](https://ieeexplore.ieee.org/document/
 | **PSNR**    | 29.0926 **↑**     | 28.3110 **↓**     | 29.1659 **↓**     |
 | **Loss**    | 0.005087597 **↓** | 0.006038793 **↑** | 0.005011519 **↑** |
 
-![2](2.png)
+![2](https://cdn.jsdelivr.net/gh/joseph-cheung/From-DnCNN-to-UDnCNN-and-DUDnCNN/2.png)
