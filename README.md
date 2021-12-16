@@ -31,3 +31,6 @@ No statistically significant [improvement](https://ieeexplore.ieee.org/document/
 | **Loss**    | 0.005087597 **↓** | 0.006038793 **↑** | 0.005011519 **↑** |
 
 ![2](2.png)
+
+
+###三种网络的比较
